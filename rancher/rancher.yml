@@ -20,6 +20,7 @@
           - virtualenv
           - python3-setuptools
           - python3-docker
+          - gpg-agent
         state: latest
         update_cache: true
 
